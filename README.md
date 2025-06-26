@@ -5,16 +5,16 @@ A modular C implementation of a **B-Tree of order 4**, where each node can store
 Each key is an `int`, and each value is a `string`.  
 
 This project supports:
-- ✅ Insertion
-- ✅ Deletion
-- ✅ Search
-- ✅ Level-order traversal (grouped by level)
-- 🧱 Modular file structure
-- 🛠 Build system via `Makefile`
+- Insertion
+- Deletion
+- Search
+- Level-order traversal (grouped by level)
+- Modular file structure
+- Build system via `Makefile`
 
 ---
 
-## 📁 File Structure
+## File Structure
 .
 ├── main.c # Entry point
 
@@ -28,11 +28,11 @@ This project supports:
 
 ├── Makefile # Build script
 
-└── README.md # This file
+└── README.md 
 
 ---
 
-## 🔧 Compilation
+## Compilation
 
 Use **MSYS2 UCRT64 shell** (or any POSIX-compatible Bash with working `gcc` and `make`):
 
