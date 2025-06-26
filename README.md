@@ -42,10 +42,12 @@ To run the program:
 ## Sample Output
 
 Search result for 20: Rahul
+
 Search result for 100: Not Found
 
 Level-order traversal:
 [10,Pratham]
+
 [2,Hardik 3,Burhan 5,Ridin] [12,Yash 17,Divyansh 20,Rahul 30,Shivam]
 
 # Btree details
